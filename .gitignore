@@ -1,0 +1,10 @@
+# Customer records/backups must not be committed
+*backup*.json
+*.sqlite
+*.db
+.env
+.env.*
+# Local editor files
+.vscode/
+.DS_Store
+Thumbs.db
